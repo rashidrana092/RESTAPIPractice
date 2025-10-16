@@ -1,0 +1,26 @@
+[
+    {
+        "name":"iPhone X",
+        "price": 154,
+        "featured": true,
+        "company": "Apple"
+    },
+    {
+        "name":"iPhone 12 Pro",
+        "price": 204,
+        "featured": true,
+        "company": "Apple"
+    },
+    {
+        "name":"V20",
+        "price": 124,
+        "feature": true,
+        "company": "Vivo"
+    }
+    ,
+    {
+        "name":"H15",
+        "price": 100,
+        "company": "Huawei"
+    }
+]
