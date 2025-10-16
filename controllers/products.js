@@ -31,6 +31,7 @@ const getAllProducts = async (req, res) => {
   let limit = Number(req.query.limit) || 2;
   let skip = (page - 1) * limit;
 
+  // pagination formula
   // page=2
   // limit=3
   // skip=1*3=3
